@@ -1,0 +1,41 @@
+Genom: IMT25053	Hits	Significant Hits	Beginn	Ende	Länge	Strang	Contig
+mecA:	1	1	4676	2670	2006	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_32
+bbp:	14	1	56616	59817	3201	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_10
+coa:	8	1	106660	108474	1814	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_16
+clfA:	8	0					
+clfB:	18	0					
+cna:	2	0					
+fnbA:	10	0					
+fnbB:	6	0					
+fib:	1	1	148693	148196	497	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_15
+eno:	1	1	15466	16770	1304	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_18
+isdA:	1	1	176521	177585	1064	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_15
+isdB:	2	1	177788	179707	1919	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_15
+isdC:	1	1	176312	175626	686	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_15
+sasA:	1	1	43564	36725	6839	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_4
+sasC:	1	1	47294	53842	6548	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_2
+sasD:	1	1	4109	3384	725	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_8
+sasF:	1	1	25827	23932	1895	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_4
+sasH:	1	1	6726	9047	2321	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_28
+map_eap:	3	1	45077	47146	2069	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_21
+spa:	7	0					
+sdrC:	8	0					
+sdrD:	28	0					
+sdrH:	5	1	31951	33195	1244	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_21
+atl:	1	1	253775	257521	3746	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_15
+ebh:	8	1	429237	458666	29429	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_2
+ebpS:	1	1	378836	380290	1454	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_2
+bap:	0	0					
+sasG:	0	0					
+emp_ssp:	2	0					
+isdH:	2	1	87228	84541	2687	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_2
+sasB:	3	0					
+sasK:	0	0					
+plsSCC:	5	0					
+sdrE:	7	1	56616	59815	3199	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_10
+vwb:	3	0					
+aa_a:	1	1	105335	106391	1056	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_3
+ccrC:	2	2	12752	14431	1679	1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_32
+blaZ:	1	1	64775	63930	845	-1	Run11_SO_1124_25053_s_3_1_sequence_(paired)_trimmed_(paired)_contig_21
+ccrB:	0	0					
+ccrA:	0	0					

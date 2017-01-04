@@ -1,0 +1,41 @@
+Genom: IMT38951	Hits	Significant Hits	Beginn	Ende	Länge	Strang	Contig
+mecA:	1	1	340	2346	2006	1	NODE_51_length_5257_cov_16.8597
+bbp:	53	0					
+coa:	8	1	34537	32723	1814	-1	NODE_5_length_141253_cov_26.4557
+clfA:	41	1	3402	607	2795	-1	NODE_54_length_4825_cov_14.686
+clfB:	76	0					
+cna:	9	0					
+fnbA:	25	0					
+fnbB:	16	0					
+fib:	1	1	68998	69495	497	1	NODE_2_length_217847_cov_21.0554
+eno:	1	1	9235	7931	1304	-1	NODE_36_length_15897_cov_20.23
+isdA:	1	1	41171	40107	1064	-1	NODE_2_length_217847_cov_21.0554
+isdB:	2	1	39904	37976	1928	-1	NODE_2_length_217847_cov_21.0554
+isdC:	1	1	41380	42066	686	1	NODE_2_length_217847_cov_21.0554
+sasA:	10	0					
+sasC:	1	1	281766	275218	6548	-1	NODE_1_length_324593_cov_19.8103
+sasD:	1	1	59757	60482	725	1	NODE_14_length_63921_cov_21.8961
+sasF:	1	1	25127	23232	1895	-1	NODE_20_length_38016_cov_24.8182
+sasH:	1	1	7008	4687	2321	-1	NODE_39_length_13472_cov_20.9186
+map_eap:	3	1	42821	44890	2069	1	NODE_9_length_104123_cov_17.5329
+spa:	8	0					
+sdrC:	38	0					
+sdrD:	160	1	635	4807	4172	1	NODE_52_length_5073_cov_23.1569
+sdrH:	5	1	29695	30939	1244	1	NODE_9_length_104123_cov_17.5329
+atl:	1	1	35702	39448	3746	1	NODE_10_length_102087_cov_19.4441
+ebh:	12	1	56187	85847	29660	1	NODE_6_length_136497_cov_23.3716
+ebpS:	1	1	5786	7240	1454	1	NODE_6_length_136497_cov_23.3716
+bap:	0	0					
+sasG:	0	0					
+emp_ssp:	2	0					
+isdH:	2	1	241832	244519	2687	1	NODE_1_length_324593_cov_19.8103
+sasB:	2	0					
+sasK:	0	0					
+plsSCC:	26	0					
+sdrE:	10	0					
+vwb:	3	0					
+aa_a:	1	1	126325	127381	1056	1	NODE_4_length_147598_cov_23.0494
+ccrC:	8	1	31	1705	1674	1	NODE_68_length_3245_cov_23.3056
+blaZ:	1	1	62513	61668	845	-1	NODE_9_length_104123_cov_17.5329
+ccrB:	0	0					
+ccrA:	0	0					
