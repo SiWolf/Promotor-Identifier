@@ -1,0 +1,22 @@
+> Genome: IMT38886 | Promoter-Region (Gene): cna
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------TATGACATAGAGTATAAGG
+AGGGGTTTTT
+> Genome: IMT38887 | Promoter-Region (Gene): cna
+GCCCCGATTGGCATCGGTTGTGTAATACAAGCAATGATTGTCGCGACGAATATTGCGAAC
+ATATACCATGCTGTTGGATCCACAGCTTCCGGTTTAATAGGTGTAAGTGCCCAAATAAGG
+AGACCTACAACGATAGGGAGTATAAACTTACGATATTTAACCGTGTTTTTCATGTTAAAA
+CGTCCTTCTTTCTATGTTTTATACATATTTCAATTTAAGAATAAAGCTAACTACAAAAGA
+TGTACAGTAATAATTAAATATAAAATTAAATTAACGAAATCATTAATATAATTATTTTTC
+GAGAAGCGGTGAAGAACTGGTATAGTTGGTGTTTATTAAATTTAAAAGATTTTGAAAATG
+AACTAATATACTAAGAAATTAATTGATACAAGTTAACTTCATGCACTTGTATTCGTTATA
+CTGTATATATTTTGCATAATAAAATAATAATATGAATTTTTGATAAATTTCATTGAATAA
+GAACTAAATTAGTTTATAATTTATTATTAGTATCCTGTGGATATGACATAGAGTATAAGG
+AGGGGTTTTT
