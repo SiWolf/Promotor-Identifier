@@ -8,3 +8,6 @@ Title: In silico Promotor Detektion von Oberflächen-assoziierten Faktoren und a
 
 Version: 0.1a for Python 3.5.2 (Windows)
 
+Please cite:
+
+Wolf, S. (2017) In silico Promotor Detektion von Oberflächen-assoziierten Faktoren und ausgewählten Resistenzgenen in Staphylococcus aureus. Free University of Berlin.
